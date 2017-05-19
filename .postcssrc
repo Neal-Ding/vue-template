@@ -1,0 +1,11 @@
+{
+    "map": false,
+    "plugins": {
+        "autoprefixer": {
+            "browsers": [
+                "Android >= 4",
+                "iOS >= 7"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "template-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "node build/server.js",
+    "build": "node build/build.js --target test"
+  },
+  "author": "jfw10973@gmail.com",
+  "license": "MIT"
+}
